@@ -87,8 +87,7 @@ button.navbar-toggler {
 .dropdown-menu {
     /*background-color: #ffc107;*/
     color: #7952b3;
-    border: 1px solid #8c61d4;
-    border-width: 2px;
+    border: 2px solid #ffc107;
     padding: 0;
     padding: 0;
 }
